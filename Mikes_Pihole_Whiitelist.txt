@@ -1,0 +1,13 @@
+! Title: MIkes's Allowlist
+! Description: This list unblocks domains I found blocked by other denial lists
+! Homepage: 
+! License: 
+! Issues:
+! Disclaimer: 
+! Expires: never
+! Last modified: 
+! Version: 
+! Syntax: AdBlock
+! Number of entries: 
+!
+@@||prod.api.hivehome.com^
