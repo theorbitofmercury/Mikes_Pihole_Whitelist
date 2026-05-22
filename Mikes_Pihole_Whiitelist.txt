@@ -11,3 +11,12 @@
 ! Number of entries: 
 !
 @@||prod.api.hivehome.com^
+@@||api.hivehome.com^
+@@||production.hivehome.com^
+@@||prod.hivehome.com^
+@@||beekeeper.hivehome.com^
+@@||cayenne.hivehome.com^
+
+
+
+
