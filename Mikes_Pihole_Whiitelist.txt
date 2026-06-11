@@ -28,6 +28,7 @@
 @@||clients6.google.com^
 @@||ssl.gstatic.com^
 @@||googleapis.com^
+! keen
 @@||api.keen.io^
 
 
